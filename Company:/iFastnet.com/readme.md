@@ -6,3 +6,6 @@ on: http://domainsascode.byethost13.com/?i=1
 >[Click here to find out how!](http://myownfreehost.net/)
 
 -> https://myownfreehost.net/
+
+# Knowledgebase
+https://kb.ifastnet.com/index.php?/category/50/0/10/MyOwnFreeHost-Reseller/
